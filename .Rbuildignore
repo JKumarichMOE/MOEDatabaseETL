@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^MOEDatabaseETL\.Rproj$
+^\.Rproj\.user$
