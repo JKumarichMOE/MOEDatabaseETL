@@ -634,7 +634,7 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.24",
+      "Version": "0.23",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "88cdb9779a657ad80ad942245fffba31"
